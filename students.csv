@@ -1,0 +1,23 @@
+﻿student_code,student_name,student_surname,birthday,enroll_year,department_name,instrument_name,ellective_name,teacher_name,solfeggio_teacher,literature_teacher,choir_teacher
+ST1,Katsiaryna,Siamionava,2001-09-09,2007,Фортепианное,Фортепиано,Оркестр,Alena Nikitachkina,Natalia Kirpichova,Aksana Chyleka,Iryna Razanava
+ST2,Dzmitry,Siamionau,2002-08-08,2008,Народное,Гитара,Композиция,Mikita Tsvirko,Viktoria Hlavinskaya,Aksana Chyleka, 
+ST3,Lizaveta,Dzmitryeva,2001-01-08,2007,Духовое,Флейта,Оркестр,Darya Vasileuskaya,Viktoria Hlavinskaya,Aksana Chyleka,Iryna Razanava
+ST4,Aliaksei,Nazaranka,2001-02-27,2007,Ударное,Литавры,Танцы,Tatsiana Vasilenka,Viktoria Hlavinskaya,Aksana Chyleka,  
+ST5,Maksim,Murashka,2001-03-15,2008,Струнно-смычковое,Виолончель,Вокал,Volha Levina,Natalia Kirpichova,Aksana Chyleka,Iryna Razanava
+ST6,Palina,Stsiapanava,2002-10-13,2009,Хоровое,Фортепиано,Танцы,Alena Nikitachkina,Natalia Kirpichova,Aksana Chyleka,Iryna Razanava
+ST7,Hanna,Ivanchanka,2002-06-06,2008,Струнно-смычковое,Скрипка,Оркестр,Alesia Savastsiuk,Natalia Kirpichova,Aksana Chyleka,Iryna Razanava
+ST8,Marya,Palishchuk,2001-04-16,2007,Духовое,Труба,Композиция,Hanna Viktarava,Viktoria Hlavinskaya,Aksana Chyleka,Iryna Razanava
+ST9,Darya,Palishchuk,2001-04-16,2007,Духовое,Саксофон,Вокал,Ivan Aliakseeu,Viktoria Hlavinskaya,Aksana Chyleka,Iryna Razanava
+ST10,Mikita,Zeliankevich,2002-07-13,2008,Ударное,Цимбалы,Оркестр,Tatsiana Doktarava,Viktoria Hlavinskaya,Natalia Gerasimenka,  
+ST11,Viktar,Piatrouski,2001-02-05,2008,Духовое,Флейта,Композиция,Iryna Hlebachkina,Viktoria Hlavinskaya,Natalia Gerasimenka,Iryna Razanava
+ST12,Raman,Savitski,2002-03-15,2007,Народное,Гитара,Вокал,Mikita Tsvirko,Viktoria Hlavinskaya,Natalia Gerasimenka,  
+ST13,Veranika,Mironchyk,2000-12-08,2007,Хоровое,Фортепиано,Вокал,Ksenia Iharava,Natalia Kirpichova,Natalia Gerasimenka,Iryna Razanava
+ST14,Ksenia,Rybak,2001-10-25,2008,Фортепианное,Фортепиано,Композиция,Ksenia Iharava,Natalia Kirpichova,Natalia Gerasimenka,Iryna Razanava
+ST15,Ullyana,Alkhоvik,2001-08-12,2008,Ударное,Литавры,Оркестр,Tatsiana Vasilenka,Viktoria Hlavinskaya,Natalia Gerasimenka,  
+ST16,Yulia,Kanoplich,2002-11-06,2009,Ударное,Ксилофон,Танцы,Nastassia Mianko,Viktoria Hlavinskaya,Natalia Gerasimenka,  
+ST17,Marya,Andreeva,2002-01-12,2009,Струнно-смычковое,Скрипка,Оркестр,Alesia Savastsiuk,Natalia Kirpichova,Natalia Gerasimenka,Iryna Razanava
+ST18,Dzina,Antonchanka,2002-04-18,2008,Народное,Аккордеон,Танцы,Ivan Hancharuk,Viktoria Hlavinskaya,Natalia Gerasimenka,  
+ST19,Iryna,Mikalaeva,2000-11-30,2007,Фортепианное,Фортепиано,Танцы,Ksenia Iharava,Natalia Kirpichova,Natalia Gerasimenka,Iryna Razanava
+ST20,Aliaksandra,Charnichkina,2001-10-10,2008,Хоровое,Фортепиано,Танцы,Ivan Hancharuk,Viktoria Hlavinskaya,Natalia Gerasimenka,
+ST21,Lizaveta,Isaeva,2001-10-10,2008,Народное,Гитара,Танцы,Ivan Aliakseeu,Viktoria Hlavinskaya,Natalia Gerasimenka,
+ST22,Lizaveta,Isaeva,2001-10-10,2008,Народное,Гитара,Танцы,Ivan Aliakseeu,Viktoria Hlavinskaya,Natalia Gerasimenka,
