@@ -37,18 +37,18 @@ olap schema.drawio.png - snowflake schema реализации DWH (OLAP)
 oltp query 1-3.sql - скрипты для запуска на базе OLTP, показывают информацию по запросу из OLTP.
 olap query 1-3.sql - скрипты для запуска на базе OLAP, показывают информацию по запросу из OLAP
 
-*================================================*
+
     How to run:
 
-Создайте на сервере базу данных (назовем: Music_School)
-запустите скрипт creating_oltp.sql
-откройте скрипт insert_into_oltp.sql и пропишите там свои абсолютные пути к файлам csv, сохраните 
-запустите файл insert_into_oltp.sql
-создайте базу данных (назовем MusicSchool_DWH)
-запустите скрипт create_olap.sql
-откройте скрипт postgres fdw.sql, вставьте свои данные, сохраните, запустите
-запустите файл insert_into_olap.sql
-чтобы проверить запросы к OLTP и OLAP, запускайте поочередно файлы oltp query 1-3 на базе Music_School (OLTP) и olap query 1-3 на базе MusicSchool_DWH (OLAP).
+- Создайте на сервере базу данных (назовем: Music_School)
+- запустите скрипт creating_oltp.sql
+- откройте скрипт insert_into_oltp.sql и пропишите там свои абсолютные пути к файлам csv, сохраните 
+- запустите файл insert_into_oltp.sql
+- создайте базу данных (назовем MusicSchool_DWH)
+- запустите скрипт create_olap.sql
+- откройте скрипт postgres fdw.sql, вставьте свои данные, сохраните, запустите
+- запустите файл insert_into_olap.sql
+- чтобы проверить запросы к OLTP и OLAP, запускайте поочередно файлы oltp query 1-3 на базе Music_School (OLTP) и olap query 1-3 на базе MusicSchool_DWH (OLAP).
 
     Power BI report 
 Отчет содержит комментарии и подписи. Первая страница показывает статистику по музыкальной школе по количеству студентов.
